@@ -1,4 +1,4 @@
-marks=[67,93,50,43.4,"a","string"] #list can store diffrent type of dat
+marks=[67,93,50,43.4,"a","string"] #list can store diffrent type of data
 print(marks)
 print(type(marks))
 print(marks[0])
