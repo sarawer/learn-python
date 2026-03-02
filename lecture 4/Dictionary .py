@@ -1,4 +1,3 @@
-
 info={"key":"value",
       "name":"sarawer",
       "age":23,
@@ -35,7 +34,7 @@ print(student)
 print(student["subjects"])
 print(student["subjects"]["math"])
 
-#methodes
+#dictionary methods
 print(info.keys()) #return al keys
 print(student.keys()) # for nested dict only output outer keys
 
