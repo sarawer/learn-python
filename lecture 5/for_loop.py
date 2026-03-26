@@ -1,12 +1,12 @@
-#list=[1,4,9,16,15,36,49,64,81,100]
+list=[1,4,9,16,15,36,49,64,81,100]
 
-# for value in list:
-#     print(value)
+for value in list:
+    print(value)
 
 
-# name="sarawer"
-# for char in name:
-#     print(char)
+name="sarawer"
+for char in name:
+    print(char)
 
 
 #range(start , stop* , step)
